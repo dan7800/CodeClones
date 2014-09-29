@@ -1,0 +1,5 @@
+## Installation notes for Deckard
+######## All instructions were compiled on a Ubuntu 64 bit VM 
+
+- Download from GH - https://github.com/skyhover/Deckard/
+- Run Make file
